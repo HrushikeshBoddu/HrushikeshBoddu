@@ -15,7 +15,7 @@
 
 <h2 align="center">I'm Hrushikesh Boddu, a Full-Stack Developer.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushikeshboddu&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikeshboddu" /> </p>
-<h3 align="left">👩‍💻  About Me</h3><p>- 🚀 Self-motivated full-stack developer with 6+ months of internship experience<br>- 💻 Skills in HTML, CSS, JavaScript, Bootstrap, Python, Django, and MySQL<br>- 🛠 Proficient in VScode, Thonny, and Git<br>- 💡 Strong foundation in problem-solving, data structures, and algorithms<br>- 👥 Team player with persuasive skills and leadership abilities in academic experiences</p>
+<h3 align="left">👩‍💻  About Me</h3><p>- 🚀 Self-motivated full-stack developer<br>- 💻 Skills in HTML, CSS, JavaScript, Bootstrap, Python, Django, and MySQL<br>- 🛠 Proficient in VScode, Thonny, and Git<br>- 💡 Strong foundation in problem-solving, data structures, and algorithms<br>- 👥 Team player with persuasive skills and leadership abilities in academic experiences</p>
 
 
 

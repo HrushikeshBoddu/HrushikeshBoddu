@@ -19,7 +19,7 @@
 </a>
 
 # 💫 About Me:
-- 🚀 Self-motivated full-stack developer<br>- 💻 Skills in HTML, CSS, JavaScript, Bootstrap, Python, Django, API and MySQL<br>- 🛠 Proficient in VScode, Thonny, and Git<br>- 💡 Strong foundation in problem-solving, data structures, and algorithms<br>- 👥 Team player with persuasive skills and leadership abilities in academic experiences
+  - 🚀 Self-motivated full-stack developer<br>- 💻 Skills in HTML, CSS, JavaScript, Bootstrap, Python, Django, API and MySQL<br>- 🛠 Proficient in VScode, Thonny, and Git<br>- 💡 Strong foundation in problem-solving, data structures, and algorithms<br>- 👥 Team player with persuasive skills and leadership abilities in academic experiences
 
 
 ## 🌐 Socials:
